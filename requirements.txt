@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+-e .
+# whenever we install from his file that time setup.py file also should run to build the packages so we write this line.
